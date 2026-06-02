@@ -1,8 +1,7 @@
-import {addCellInsideParent} from "./component/cell.js";
+import { addCellInsideParent } from "./component/cell.js";
 
-
-function renderBoard ( ){
-   addCellInsideParent();
+function renderBoard() {
+  addCellInsideParent();
 }
 
-renderBoard()
+renderBoard();
